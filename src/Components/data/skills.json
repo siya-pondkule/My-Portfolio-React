@@ -1,0 +1,34 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "Skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "Skills/css3.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "Skills/javascript.png"
+    },
+    {
+        "title": "JAVA",
+        "imageSrc": "Skills/java.png"
+    },
+    {
+        "title": "PHP",
+        "imageSrc": "Skills/php.png"
+    },
+    {
+        "title": "Cloud Computing",
+        "imageSrc": "Skills/server.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "Skills/react.png"
+    },
+    {
+        "title": "SQL Database",
+        "imageSrc": "Skills/sql.png"
+    }
+]

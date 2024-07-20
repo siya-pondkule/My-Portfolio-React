@@ -1,0 +1,41 @@
+[
+    {
+        "id":1,
+        "role": "Cloud Computing Intern",
+        "organisation": "Kasnet Technology PVT,LTD",
+        "startDate": "15 June 2020 to",
+        "endDate": "30 Jully 2020",
+        "location": "Pune",
+        "experiences":[
+            "Basic Knowledge of Cloud and Its importance",
+            "All keys of Azure-900 and its uses"
+        ],
+        "imageSrc": "Company/kasnet.png"
+    },
+    {
+        "id":2,
+        "role": "Creative Team Member",
+        "organisation": "ACM",
+        "startDate": "15 Aug 2023 to",
+        "endDate": "30 Apr 2024",
+        "location": "WCE",
+        "experiences":[
+            "Created Posters and Banners",
+            "Created a website for the event"
+        ],
+        "imageSrc": "Company/acm.png"
+    },
+    {
+        "id":3,
+        "role": "Knowledge Team Leader",
+        "organisation": "ACM",
+        "startDate": "30 Apr 2024",
+        "endDate": "A20 Apr 2025",
+        "location": "WCE",
+        "experiences":[
+            "Created Contests and quizes",
+            "Created a website for the event"
+        ],
+        "imageSrc": "Company/acm.png"
+    }
+]
